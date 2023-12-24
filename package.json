@@ -1,0 +1,17 @@
+{
+  "name": "aptos-mint-inscription",
+  "version": "1.0.0",
+  "description": "auto mint apts-20 #Inscription with typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node start.ts"
+  },
+  "author": "Solotop999",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "10.7.0"
+  },
+  "dependencies": {
+    "@aptos-labs/ts-sdk": "^1.2.0"
+  }
+}
